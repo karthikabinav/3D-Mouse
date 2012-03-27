@@ -1,0 +1,3 @@
+crypt.o: crypt.c lib/config.h
+
+lib/config.h:
